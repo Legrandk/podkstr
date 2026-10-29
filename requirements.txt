@@ -1,0 +1,5 @@
+textual
+feedparser
+httpx
+pytest
+pytest-asyncio

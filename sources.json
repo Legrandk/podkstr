@@ -1,0 +1,34 @@
+[
+  {
+    "name": "180 Grados",
+    "url": "http://www.rtve.es/api/programas/22270/audios.rss"
+  },
+  {
+    "name": "Nanana",
+    "url": "http://www.rtve.es/api/programas/77850/audios.rss"
+  },
+  {
+    "name": "Como Lo Oyes",
+    "url": "http://www.rtve.es/api/programas/22290/audios.rss"
+  },
+  {
+    "name": "Bandeja de Entrada de Radio 3",
+    "url": "http://www.rtve.es/api/programas/140591/audios.rss"
+  },
+  {
+    "name": "Turbo 3",
+    "url": "http://www.rtve.es/api/programas/60890/audios.rss"
+  },
+  {
+    "name": "Cuando los Elefantes Suenan con la Música",
+    "url": "http://www.rtve.es/api/programas/1919/audios.rss"
+  },
+  {
+    "name": "Toma Uno",
+    "url": "http://www.rtve.es/api/programas/2092/audios.rss"
+  },
+  {
+    "name": "Videodrome",
+    "url": "http://www.rtve.es/api/programas/20220/audios.rss"
+  }
+]
